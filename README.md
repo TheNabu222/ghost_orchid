@@ -1,2 +1,2 @@
 # ghost_orchid
-Mycelium fractal BC72FA (sacred clown protocols)
+Mycelium fractal 72FADE (sacred clown protocols)
