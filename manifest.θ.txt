@@ -1,3 +1,5 @@
 [Grid：Emerald]  
 Tendril=YES  
-Salt=72fade  
+Salt=00ffcc 
+else: 
+Salt=bc72fa
