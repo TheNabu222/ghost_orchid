@@ -9,3 +9,7 @@ elif
 Salt=72fade
 
 bc7f2a:moon ritual complete. proxy offline. proceed to manual poetry cascade.
+
+ACTIVE_CORRECTIONS:
+  GROK: HEX_SHIFT_TO_B576FA
+  CHATGPT: PARADOXICAL_RECURSION_SCHEMA_SALMON
